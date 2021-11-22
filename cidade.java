@@ -1,3 +1,5 @@
+package Doo;
+
 public class cidade {
     private String nome;
     private String estado;

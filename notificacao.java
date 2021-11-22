@@ -1,3 +1,5 @@
+package Doo;
+
 public class notificacao {
     private String nome_ponto;
     private int distancia;

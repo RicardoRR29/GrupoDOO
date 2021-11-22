@@ -1,3 +1,5 @@
+package Doo;
+
 public class avaliacao {
     private int nota;
     private String comentario;

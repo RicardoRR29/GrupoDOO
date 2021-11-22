@@ -1,4 +1,6 @@
-import java.sql.Date;
+package Doo;
+
+import java.util.Date;
 
 public class check_in {
     private Date data;

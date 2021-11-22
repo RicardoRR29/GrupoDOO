@@ -1,3 +1,6 @@
+
+package Doo;
+
 public class problema {
     private int id_usuario;
     private String descricao;

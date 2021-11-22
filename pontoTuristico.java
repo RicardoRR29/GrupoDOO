@@ -1,8 +1,17 @@
+package Doo;
 
-public class pontoTuristico {
+
+public class PontoTuristico {
     private String nome;
     private String complemento;
     private String descricao;
+    
+    public void setPontoTuristico(PontoTuristico ponto){
+        this.nome = ponto.nome;
+        this.complemento = ponto.complemento;
+        this.descricao = ponto.descricao;
+        
+    }
     
     public String getNome(){
         return nome;

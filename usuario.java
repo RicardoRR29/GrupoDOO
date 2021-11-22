@@ -1,3 +1,5 @@
+package Doo;
+
 public class usuario {
     private String email;
     private String senha;
@@ -28,5 +30,10 @@ public class usuario {
     public void setNome(String nome){
         this.nome = nome;
     }
+    
+    public int isActive(int valor){
+        return valor;
+    }
+    
 
 }
