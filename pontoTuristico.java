@@ -18,8 +18,6 @@ public class PontoTuristico {
         
     }
     
-
-
     public String getNome(){
         return nome;
     }
